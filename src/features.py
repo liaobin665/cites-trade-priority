@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Build the 60 model features as of year t (t = label year - 1).
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 All features are functions of years <= t.  The assertion at the end of each

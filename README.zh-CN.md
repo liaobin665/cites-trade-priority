@@ -114,8 +114,6 @@ CITES_DB=data/cites.duckdb python src/run_all.py
 - 排序回答“先看谁”，不回答“多少贸易是可持续的”。它是复核输入，不是非致危性判定。
 - 公开代码是整理后的分析链；内部探索分支与一次性检查未纳入。
 
-## 八、作者与许可
-
-作者：**廖彬（Liao Bin）**，2026。
+## 八、许可
 
 MIT 许可，见 [LICENSE](LICENSE)。

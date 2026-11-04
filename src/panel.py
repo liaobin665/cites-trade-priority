@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Build the exporter x taxon x year panel.
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 Caliber (fixed before any modelling):

@@ -141,8 +141,6 @@ numbers to read.
 - The released code is a cleaned version of the analysis pipeline. Internal
   exploratory variants and one-off checks are not included.
 
-## 8. Author and license
-
-Author: **Liao Bin** (廖彬), 2026.
+## 8. License
 
 MIT License. See [LICENSE](LICENSE).

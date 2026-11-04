@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Rolling-origin training and evaluation.
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 For every test year T (2016-2024) the model is refitted on 2005..T-1 and used

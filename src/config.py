@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Project-wide settings.
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 The only input this project needs is a local DuckDB file containing the CITES

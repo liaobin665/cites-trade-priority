@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Turn the panel into a binary "next-year surge" label.
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 A unit (exporter, taxon) is positive in year T when either

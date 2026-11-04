@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Run the full analysis chain.
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 Usage:

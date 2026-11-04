@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """Regenerate the core diagnostic panels from the result tables.
 
-Author : Liao Bin <liaobin665@163.com>
 Date   : 2026-11-04
 
 The full figures in ``figures/`` were styled separately; this script produces
