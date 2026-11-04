@@ -1,0 +1,17 @@
+# No trade records or derived panels are published.
+data/
+output/
+*.duckdb
+*.parquet
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.ipynb_checkpoints/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
